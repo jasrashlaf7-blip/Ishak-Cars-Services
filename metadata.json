@@ -1,0 +1,6 @@
+{
+  "name": "WorldSkills Algeria 2026",
+  "description": "Official vocational skills olympiad tracking platform for real-time schedules, Wilaya medal counts, and AI-powered trainee guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
